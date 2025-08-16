@@ -1,5 +1,4 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
-
+![Logo UNAHUR](./UNAHUR.png)
 # Mi presentacion 
 > Soy Agustin Nicoletti Tizzone tenog 21 años y este es mi segundo año en la unahur.
 > Cada cuatrimestre que pasa voy aprendiendo y mejorando mas, quiero seguir por este camino y trabajar programando 
